@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5ed1016d-90d4-4190-a831-c244b5553a9d) and start prompting.
+Simply visit the [Project](https://Fedaratedlearning.dev/projects/5ed1016d-90d4-4190-a831-c244b5553a9d) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
